@@ -1,6 +1,6 @@
 ****Customer Segmentation using K-Means and Hierarchical Clustering****
 
-his repository contains a comprehensive analysis and implementation of customer segmentation using K-means and Hierarchical clustering techniques on a large-scale dataset with over 1 million rows. The primary objective of this project is to segment customers based on their transaction behaviors, enabling targeted marketing strategies and enhanced customer satisfaction.
+This repository contains a comprehensive analysis and implementation of customer segmentation using K-means and Hierarchical clustering techniques on a large-scale dataset with over 1 million rows. The primary objective of this project is to segment customers based on their transaction behaviors, enabling targeted marketing strategies and enhanced customer satisfaction.
 
 
 ****Table of Contents****
